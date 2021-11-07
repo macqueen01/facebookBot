@@ -1,1 +1,1 @@
-web: gunicorn app:instaBot
+web: gunicorn app:app
